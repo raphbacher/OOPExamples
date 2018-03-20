@@ -1,7 +1,7 @@
 # PooExamples
 Notebooks to illustrate Object-Oriented Programming Concepts with Java
 
-[![Binder](https://mybinder.org/v2/gh/fchatelain/OOPExamples.git/master?filepath=TestTableaux.ipynb)]
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fchatelain/OOPExamples.git/master?filepath=TestTableaux.ipynb)
 
 A [Binder](https://mybinder.org/) compatible repository to try out the [IJava](https://github.com/SpencerPark/IJava) kernel through a browser. Depending on if the docker image is already built, spawning the notebook may take some time and so please be patient with it.
 
