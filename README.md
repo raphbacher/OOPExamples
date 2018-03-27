@@ -1,5 +1,4 @@
-# PooExamples
-Notebooks to illustrate Object-Oriented Programming Concepts with Java
+# PooExamples: Notebooks to illustrate Object-Oriented Programming Concepts with Java
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fchatelain/OOPExamples/master?filepath=home%2Fjovyan%2FTestTableaux.ipynb)
 
