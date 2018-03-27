@@ -5,7 +5,7 @@ USER root
 # Install the base dependencies
 RUN git clone https://github.com/SpencerPark/jupyter-jvm-basekernel.git --depth 1 \
   && cd jupyter-jvm-basekernel/ \
-  && gradle publishToMavenLocal
+  && gradle publishToMavenLocal --info
 
 # Install the kernel
 RUN git clone https://github.com/SpencerPark/IJava.git --depth 1
