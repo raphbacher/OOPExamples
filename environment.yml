@@ -1,0 +1,6 @@
+name: java_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+- scijava-jupyter-kernel
